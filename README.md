@@ -22,8 +22,6 @@ https://i.imgur.com/91neHYe.gif
 
 https://ezgif.com/optimize/ezgif-2-971dae1a10d7.gif
 
-### Notes
-Describe any challenges encountered while building the app.
 ---
 
 ## Flix Part 1
